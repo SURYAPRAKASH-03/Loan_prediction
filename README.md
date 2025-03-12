@@ -20,6 +20,8 @@ Job & House Stability: Employment and residence duration.
 
 Risk Flag Analysis: Identifies applicants at higher risk of default.
 
+![Image](https://github.com/user-attachments/assets/f08ba308-bdf3-4044-89bb-f5cb2b4dcb59)
+
 Dashboard Features:
 
 ✅ Interactive Slicers & Filters
